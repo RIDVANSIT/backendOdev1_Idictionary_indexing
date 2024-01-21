@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "R8xrUQlb9gpXi4VK7pTnoyX9hc4ej2E77jio8r3oCT80VCZPars//m7UgGAReti1Kl7YYTEduVeraRQH68C5aQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\rdvn\\Desktop\\soft-ito-backend\\Example\\Example.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rdvn\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
